@@ -12,3 +12,7 @@ Code repository for primary analyses and figures for Ojha et al., 2025 in Cell R
 ## questions?
 
 Feel free to reach out at amo80 [at] pitt [dot] edu for any questions concerning the above scripts
+
+## DOI
+
+doi.org/10.5281/zenodo.16690846
